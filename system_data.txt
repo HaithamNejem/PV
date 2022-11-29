@@ -1,5 +1,0 @@
-Array: cells_num 40 ,cell_area 2.52 ,efficiency 0.2 .
-Battery: capacity 1000 .
-House:  
-Inverter:
-WirlessCharger:
