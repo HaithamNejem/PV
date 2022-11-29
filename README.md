@@ -16,11 +16,11 @@ PV System project
 @ the input files must have the same path names in order to run without errors
 @ there are provided data files regarded to 2019 data in order to try to simulate
 @ make sure the below libraries are installed before running:
-    import pandas.
-    import pandas_datareader
-    import glob
-    import matplotlib
-    import PySimpleGUI
-    import datetime
-    import sys
+    import pandas   
+    import pandas_datareader    
+    import glob 
+    import matplotlib   
+    import PySimpleGUI  
+    import datetime 
+    import sys  
 
